@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=DongWon%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=DongWon%20Kim&fontSize=90)()()
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDOXDEF%2FPublic&count_bg=%23275AD3&title_bg=%233BE1C7&icon=awesomelists.svg&icon_color=%23000000&title=+Travelers...&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDOXDEF%2FPublic&count_bg=%23275AD3&title_bg=%233BE1C7&icon=awesomelists.svg&icon_color=%23000000&title=+Travelers...&edge_flat=false)](https://hits.seeyoufarm.com)()()
 
-<My Language>
+My Language
 
 ![main](https://img.shields.io/badge/-Main-green) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Sub](https://img.shields.io/badge/-Sub-green) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
