@@ -11,8 +11,17 @@
 <br/>
 
 ![main](https://img.shields.io/badge/-Main-green) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+
+<br/>
+
 ![Sub](https://img.shields.io/badge/-Sub-green) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+<br/>
+
 ![Learning Soon](https://img.shields.io/badge/-Learning%20Soon-green) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<br/>
+
 ![My Flatform](https://img.shields.io/badge/-My%20Flatform-green) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <br/>
