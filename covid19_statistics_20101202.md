@@ -1,9 +1,8 @@
-```python
-def normalize_data(n_cases, n_people, scale):   
+_def normalize_data(n_cases, n_people, scale):   
     norm_cases = []
     for idx, n in enumerate(n_cases):
         norm_cases.append(n_cases[idx] / n_people[idx] * scale)
-    return norm_cases
+    return norm_cases_
 
 regions  = ['Seoul', 'Gyeongi', 'Busan', 'Gyeongnam', 'Incheon', 'Gyeongbuk', 'Daegu', 'Chungnam', 'Jeonnam', 'Jeonbuk', 'Chungbuk', 'Gangwon', 'Daejeon', 'Gwangju', 'Ulsan', 'Jeju', 'Sejong']
 n_people = [9550227,  13530519, 3359527,     3322373,   2938429,     2630254, 2393626,    2118183,   1838353,   1792476,    1597179,   1536270,   1454679,   1441970, 1124459, 675883,   365309] # 2021-08
@@ -28,8 +27,7 @@ print('| Region | New Cases | Ratio (%) | New Cases / 1M |')
 print('| ------ | --------- | --------- | -------------- |')
 for idx, pop in enumerate(n_covid):
     ratio = pop / sum_covid * 100 # TODO: The ratio of new cases to the total
-    print('| %s | %d | %.1f | %.1f |' % (regions[idx], pop, ratio, norm_covid[idx]))
-```    
+    print('| %s | %d | %.1f | %.1f |' % (regions[idx], pop, ratio, norm_covid[idx]))  
     
 * Total ...
 
