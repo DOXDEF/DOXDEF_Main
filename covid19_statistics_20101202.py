@@ -33,7 +33,8 @@ for idx, pop in enumerate(n_covid):
     ratio = pop / sum_covid * 100 # TODO: The ratio of new cases to the total
     print('| %s | %d | %.1f | %.1f |' % (regions[idx], pop, ratio, norm_covid[idx]))
     
-    * Total ...
+    
+* Total ...
 
 <empty line>
 
