@@ -264,7 +264,7 @@ column<br/>
 
 원본과 비교했을 때 정확히 일치한다는 것을 알 수 있다.
 
-<img width="{80%}" src="{https://user-images.githubusercontent.com/77396001/146916750-9294cc75-0dc4-4e6a-b864-1639160c5f73.PNG}"/>
+<img width="80%" src="https://user-images.githubusercontent.com/77396001/146916750-9294cc75-0dc4-4e6a-b864-1639160c5f73.PNG"/>
 
 ### 전체 코드 확인하기 : https://github.com/DOXDEF/DOXDEF_Main/blob/main/NONOGRAM.ipynb
 
