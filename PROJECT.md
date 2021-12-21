@@ -38,7 +38,7 @@ cv2_imshow(nonogram)
 
 결과
 
-<img width="40%" src="https://user-images.githubusercontent.com/77396001/146914428-e665da23-a995-4a6d-afe4-b25bce8124d5.PNG"/>
+<img width="100%" src="https://user-images.githubusercontent.com/77396001/146914428-e665da23-a995-4a6d-afe4-b25bce8124d5.PNG"/>
 
 =====================================
 
@@ -83,7 +83,7 @@ cv2.destroyAllWindows()
 
 결과
 
-<img width="80%" src="https://user-images.githubusercontent.com/77396001/146915277-0eb3f68f-8857-45a6-b256-07b339772dd0.png"/>
+<img width="40%" src="https://user-images.githubusercontent.com/77396001/146915277-0eb3f68f-8857-45a6-b256-07b339772dd0.png"/>
 
 =====================================
 
