@@ -278,24 +278,11 @@ column<br/>
    만들 필요성을 느꼈다.
 
 
+### 참고자료/reference
 
 
+* https://mangchhe.github.io/imageprocess/2021/07/16/LabelingFromImage/
+* https://velog.io/@nayeon_p00/OpenCV-Python-HSV-%EC%83%89%EA%B3%B5%EA%B0%84%EC%97%90%EC%84%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98-%ED%8A%B9%EC%A0%95%EC%83%89-%EC%B6%94%EC%B6%9C%ED%95%98%EA%B8%B0
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+=> 레이블링 코드 참고
 
