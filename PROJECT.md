@@ -11,7 +11,7 @@ X×Y 크기의 직사각형에 각각 적혀있는 숫자를 보고 숨어있는
 특정 색깔로 이미 색칠되어 표현된 노노그램을 준비한다. 색칠되어있는 칸을 레이블링 하여 배열에 값을 저장 후 가로와 세로로 구분하여 노노그램을 표현한다.
 
 { 예시 }
-<img width="{80%}" src="{https://user-images.githubusercontent.com/77396001/146914360-f3ae70d9-d8f7-463e-87f1-08294ec2f88d.png}"/>
+<img width="80%" src="https://user-images.githubusercontent.com/77396001/146914360-f3ae70d9-d8f7-463e-87f1-08294ec2f88d.png"/>
 
 * 코드와 부분별 결과
 
@@ -31,14 +31,14 @@ nonogram = cv2.imread('nonogram.jpg')
 cv2_imshow(nonogram)
 
 # 수업 시간에 배웠던 코드를 이용하여 웹페이지에 있는 색칠되어있는 노노그램 이미지를 다운받는다.
-# => 해당 이미지는 { http://www.landofcrispy.com/nonogrammer/nonogram.html?mode=build } 사이트에서 제작했으며
-# { https://doxdef.tistory.com/7 } 작성자 본인의 블로그에 올려서 해당 이미지 주소를 참조하였다.
+# => 해당 이미지는 http://www.landofcrispy.com/nonogrammer/nonogram.html?mode=build 사이트에서 제작했으며
+# https://doxdef.tistory.com/7 작성자 본인의 블로그에 올려서 해당 이미지 주소를 참조하였다.
 
 ```
 
 결과
 
-<img width="{80%}" src="{https://user-images.githubusercontent.com/77396001/146914428-e665da23-a995-4a6d-afe4-b25bce8124d5.PNG}"/>
+<img width="80%" src="https://user-images.githubusercontent.com/77396001/146914428-e665da23-a995-4a6d-afe4-b25bce8124d5.PNG"/>
 
 =====================================
 
@@ -75,15 +75,15 @@ cv2.destroyAllWindows()
 
 # 빨간색으로 색칠되어 있는 칸을 레이블링하여 총 몇 개의 칸이 색칠되었는지 구분한다.
 # 각각의 칸의 정보는 stats[i]에 저장된다.
-# 해당 코드는 { https://mangchhe.github.io/imageprocess/2021/07/16/LabelingFromImage/ } 와
-# { https://velog.io/@nayeon_p00/OpenCV-Python-HSV-%EC%83%89%EA%B3%B5%EA%B0%84%EC%97%90%EC%84%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98-%ED%8A%B9%EC%A0%95%EC%83%89-%EC%B6%94%EC%B6%9C%ED%95%98%EA%B8%B0 }
+# 해당 코드는 https://mangchhe.github.io/imageprocess/2021/07/16/LabelingFromImage/ 와
+# https://velog.io/@nayeon_p00/OpenCV-Python-HSV-%EC%83%89%EA%B3%B5%EA%B0%84%EC%97%90%EC%84%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98-%ED%8A%B9%EC%A0%95%EC%83%89-%EC%B6%94%EC%B6%9C%ED%95%98%EA%B8%B0
 # 의 코드를 참고하여 작성되었다.
 
 ```
 
 결과
 
-<img width="{80%}" src="{https://user-images.githubusercontent.com/77396001/146915277-0eb3f68f-8857-45a6-b256-07b339772dd0.png}"/>
+<img width="80%" src="https://user-images.githubusercontent.com/77396001/146915277-0eb3f68f-8857-45a6-b256-07b339772dd0.png"/>
 
 =====================================
 
@@ -249,7 +249,7 @@ row
 1 2 1
 2 1 1
 3 2
-=========
+
 column
 0
 1 4
